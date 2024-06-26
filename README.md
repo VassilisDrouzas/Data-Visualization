@@ -8,4 +8,4 @@ This repository contains two separate projects:
 
 2) Studying Washington Capital Bikeshare data
    
-   Here, we aimed to create a story regrarding the dataset using visualizations.
+   Here, we aimed to create a story regarding the dataset using visualizations.
